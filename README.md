@@ -25,7 +25,7 @@ A microservices-based e-commerce platform built with Spring Boot and React.
 
 ### Prerequisites
 
-- Java 17+
+- Java 25+
 - Node.js 18+
 - MongoDB
 - Docker (optional)
